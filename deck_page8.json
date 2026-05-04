@@ -15179,7 +15179,31 @@
       },
       "prices": {
         "usd": "0.24"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Sanar, Unfinished Genius",
+          "mana_cost": "{U}{R}",
+          "type_line": "Legendary Creature — Goblin Sorcerer",
+          "oracle_text": "Sanar enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\n{T}: Create a Treasure token. Activate only if you've cast an instant or sorcery spell this turn.",
+          "flavor_text": "",
+          "power": "0",
+          "toughness": "4",
+          "artist": "Justin Gerard",
+          "image_uris": {}
+        },
+        {
+          "name": "Wild Idea",
+          "mana_cost": "{3}{U}{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Justin Gerard",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Sanctified Charge",
@@ -21498,7 +21522,31 @@
       },
       "prices": {
         "usd": "0.12"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Scathing Shadelock",
+          "mana_cost": "{4}{B}",
+          "type_line": "Creature — Snake Warlock",
+          "oracle_text": "At the beginning of your first main phase, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "4",
+          "toughness": "6",
+          "artist": "Loïc Canavaggia",
+          "image_uris": {}
+        },
+        {
+          "name": "Venomous Words",
+          "mana_cost": "{B}",
+          "type_line": "Sorcery",
+          "oracle_text": "Target creature you control gets +2/+0 and gains deathtouch until end of turn.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Loïc Canavaggia",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Scatter Arc",

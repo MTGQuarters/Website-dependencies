@@ -905,7 +905,31 @@
       },
       "prices": {
         "usd": "0.24"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Lluwen, Exchange Student",
+          "mana_cost": "{2}{B}{G}",
+          "type_line": "Legendary Creature — Elf Druid",
+          "oracle_text": "Lluwen enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\nExile a creature card from your graveyard: Lluwen becomes prepared. Activate only as a sorcery.",
+          "flavor_text": "",
+          "power": "3",
+          "toughness": "4",
+          "artist": "Alix Branwyn",
+          "image_uris": {}
+        },
+        {
+          "name": "Pest Friend",
+          "mana_cost": "{B/G}",
+          "type_line": "Sorcery",
+          "oracle_text": "Create a 1/1 black and green Pest creature token with \"Whenever this token attacks, you gain 1 life.\"",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Alix Branwyn",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Lo and Li, Royal Advisors",
@@ -44363,7 +44387,31 @@
       },
       "prices": {
         "usd": "0.24"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Murderous Rider",
+          "mana_cost": "{1}{B}{B}",
+          "type_line": "Creature — Zombie Knight",
+          "oracle_text": "Lifelink\nWhen this creature dies, put it on the bottom of its owner's library.",
+          "flavor_text": "",
+          "power": "2",
+          "toughness": "3",
+          "artist": "Ravenna Tran",
+          "image_uris": {}
+        },
+        {
+          "name": "Swift End",
+          "mana_cost": "{1}{B}{B}",
+          "type_line": "Instant — Adventure",
+          "oracle_text": "Destroy target creature or planeswalker. You lose 2 life. (Then exile this card. You may cast the creature later from exile.)",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Ravenna Tran",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Murderous Spoils",

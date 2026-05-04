@@ -1207,7 +1207,31 @@
       },
       "prices": {
         "usd": "0.22"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Abigale, Poet Laureate",
+          "mana_cost": "{1}{W}{B}",
+          "type_line": "Legendary Creature — Bird Bard",
+          "oracle_text": "Flying\nWhenever you cast a creature spell, Abigale becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "2",
+          "toughness": "3",
+          "artist": "Olivier Bernard",
+          "image_uris": {}
+        },
+        {
+          "name": "Heroic Stanza",
+          "mana_cost": "{1}{W/B}",
+          "type_line": "Sorcery",
+          "oracle_text": "Put a +1/+1 counter on target creature.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Olivier Bernard",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Abnormal Endurance",
@@ -5034,7 +5058,31 @@
       },
       "prices": {
         "usd": "0.14"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Adventurous Eater",
+          "mana_cost": "{2}{B}",
+          "type_line": "Creature — Human Warlock",
+          "oracle_text": "This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "3",
+          "toughness": "2",
+          "artist": "Josu Hernaiz",
+          "image_uris": {}
+        },
+        {
+          "name": "Have a Bite",
+          "mana_cost": "{B}",
+          "type_line": "Sorcery",
+          "oracle_text": "Put a +1/+1 counter on target creature. You gain 1 life.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Josu Hernaiz",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Adventurous Impulse",
@@ -47636,7 +47684,31 @@
       },
       "prices": {
         "usd": "0.15"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Beanstalk Giant",
+          "mana_cost": "{6}{G}",
+          "type_line": "Creature — Giant",
+          "oracle_text": "Beanstalk Giant's power and toughness are each equal to the number of lands you control.",
+          "flavor_text": "",
+          "power": "*",
+          "toughness": "*",
+          "artist": "Nick Southam",
+          "image_uris": {}
+        },
+        {
+          "name": "Fertile Footsteps",
+          "mana_cost": "{2}{G}",
+          "type_line": "Sorcery — Adventure",
+          "oracle_text": "Search your library for a basic land card, put it onto the battlefield, then shuffle. (Then exile this card. You may cast the creature later from exile.)",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Nick Southam",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Beanstalk Wurm // Plant Beans",

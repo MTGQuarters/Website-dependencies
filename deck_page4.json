@@ -40442,7 +40442,31 @@
       },
       "prices": {
         "usd": "0.12"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Goblin Glasswright",
+          "mana_cost": "{1}{R}",
+          "type_line": "Creature — Goblin Sorcerer",
+          "oracle_text": "This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "2",
+          "toughness": "2",
+          "artist": "David Auden Nash",
+          "image_uris": {}
+        },
+        {
+          "name": "Craft with Pride",
+          "mana_cost": "{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "David Auden Nash",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Goblin Glider",

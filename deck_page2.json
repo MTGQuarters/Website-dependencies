@@ -13727,7 +13727,31 @@
       },
       "prices": {
         "usd": "0.23"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Callow Jushi",
+          "mana_cost": "{1}{U}{U}",
+          "type_line": "Creature — Human Wizard",
+          "oracle_text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on this creature.\nAt the beginning of the end step, if there are two or more ki counters on this creature, you may flip it.",
+          "flavor_text": "",
+          "power": "2",
+          "toughness": "2",
+          "artist": "Tsutomu Kawade",
+          "image_uris": {}
+        },
+        {
+          "name": "Jaraku the Interloper",
+          "mana_cost": "",
+          "type_line": "Legendary Creature — Spirit",
+          "oracle_text": "Remove a ki counter from Jaraku: Counter target spell unless its controller pays {2}.",
+          "flavor_text": "",
+          "power": "3",
+          "toughness": "4",
+          "artist": "Tsutomu Kawade",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Calming Licid",
@@ -13891,7 +13915,31 @@
       },
       "prices": {
         "usd": "0.22"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Campus Composer",
+          "mana_cost": "{3}{U}",
+          "type_line": "Creature — Merfolk Bard",
+          "oracle_text": "Ward {2}\nThis creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "3",
+          "toughness": "4",
+          "artist": "Madeline Boni",
+          "image_uris": {}
+        },
+        {
+          "name": "Aqueous Aria",
+          "mana_cost": "{4}{U}",
+          "type_line": "Sorcery",
+          "oracle_text": "Create a 3/3 blue and red Elemental creature token with flying.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Madeline Boni",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Campus Guide",
@@ -27852,7 +27900,31 @@
       },
       "prices": {
         "usd": "0.12"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Cheerful Osteomancer",
+          "mana_cost": "{3}{B}",
+          "type_line": "Creature — Orc Warlock",
+          "oracle_text": "This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "4",
+          "toughness": "2",
+          "artist": "Diego Gisbert",
+          "image_uris": {}
+        },
+        {
+          "name": "Raise Dead",
+          "mana_cost": "{B}",
+          "type_line": "Sorcery",
+          "oracle_text": "Return target creature card from your graveyard to your hand.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Diego Gisbert",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Cheering Crowd",

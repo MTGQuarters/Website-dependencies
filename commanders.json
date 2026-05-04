@@ -321,7 +321,31 @@
     },
     "prices": {
       "usd": "0.30"
-    }
+    },
+    "card_faces": [
+      {
+        "name": "Abigale, Poet Laureate",
+        "mana_cost": "{1}{W}{B}",
+        "type_line": "Legendary Creature — Bird Bard",
+        "oracle_text": "Flying\nWhenever you cast a creature spell, Abigale becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+        "flavor_text": "",
+        "power": "2",
+        "toughness": "3",
+        "artist": "Olivier Bernard",
+        "image_uris": {}
+      },
+      {
+        "name": "Heroic Stanza",
+        "mana_cost": "{1}{W/B}",
+        "type_line": "Sorcery",
+        "oracle_text": "Put a +1/+1 counter on target creature.",
+        "flavor_text": "",
+        "power": null,
+        "toughness": null,
+        "artist": "Olivier Bernard",
+        "image_uris": {}
+      }
+    ]
   },
   {
     "name": "Abomination of Llanowar",
@@ -27224,7 +27248,31 @@
     },
     "prices": {
       "usd": "0.25"
-    }
+    },
+    "card_faces": [
+      {
+        "name": "Jadzi, Steward of Fate",
+        "mana_cost": "{2}{U}",
+        "type_line": "Legendary Creature — Human Wizard",
+        "oracle_text": "Jadzi enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\nWhen Jadzi enters, draw two cards, then discard two cards.",
+        "flavor_text": "",
+        "power": "2",
+        "toughness": "4",
+        "artist": "Martina Fačková",
+        "image_uris": {}
+      },
+      {
+        "name": "Oracle's Gift",
+        "mana_cost": "{X}{X}{U}",
+        "type_line": "Sorcery",
+        "oracle_text": "Create X 0/0 green and blue Fractal creature tokens, then put X +1/+1 counters on each Fractal you control.",
+        "flavor_text": "",
+        "power": null,
+        "toughness": null,
+        "artist": "Martina Fačková",
+        "image_uris": {}
+      }
+    ]
   },
   {
     "name": "Jalira, Master Polymorphist",
@@ -32269,7 +32317,31 @@
     },
     "prices": {
       "usd": "0.17"
-    }
+    },
+    "card_faces": [
+      {
+        "name": "Kirol, History Buff",
+        "mana_cost": "{R}{W}",
+        "type_line": "Legendary Creature — Vampire Cleric",
+        "oracle_text": "Whenever one or more cards leave your graveyard, Kirol becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+        "flavor_text": "",
+        "power": "2",
+        "toughness": "3",
+        "artist": "Bryan Sola",
+        "image_uris": {}
+      },
+      {
+        "name": "Pack a Punch",
+        "mana_cost": "{1}{R}{W}",
+        "type_line": "Sorcery",
+        "oracle_text": "Mill a card. Put two +1/+1 counters on target creature. It gains trample until end of turn.",
+        "flavor_text": "",
+        "power": null,
+        "toughness": null,
+        "artist": "Bryan Sola",
+        "image_uris": {}
+      }
+    ]
   },
   {
     "name": "Kirri, Talented Sprout",
@@ -36253,7 +36325,31 @@
     },
     "prices": {
       "usd": "0.24"
-    }
+    },
+    "card_faces": [
+      {
+        "name": "Lluwen, Exchange Student",
+        "mana_cost": "{2}{B}{G}",
+        "type_line": "Legendary Creature — Elf Druid",
+        "oracle_text": "Lluwen enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\nExile a creature card from your graveyard: Lluwen becomes prepared. Activate only as a sorcery.",
+        "flavor_text": "",
+        "power": "3",
+        "toughness": "4",
+        "artist": "Alix Branwyn",
+        "image_uris": {}
+      },
+      {
+        "name": "Pest Friend",
+        "mana_cost": "{B/G}",
+        "type_line": "Sorcery",
+        "oracle_text": "Create a 1/1 black and green Pest creature token with \"Whenever this token attacks, you gain 1 life.\"",
+        "flavor_text": "",
+        "power": null,
+        "toughness": null,
+        "artist": "Alix Branwyn",
+        "image_uris": {}
+      }
+    ]
   },
   {
     "name": "Lluwen, Imperfect Naturalist",
@@ -52458,7 +52554,31 @@
     },
     "prices": {
       "usd": "0.29"
-    }
+    },
+    "card_faces": [
+      {
+        "name": "Sanar, Unfinished Genius",
+        "mana_cost": "{U}{R}",
+        "type_line": "Legendary Creature — Goblin Sorcerer",
+        "oracle_text": "Sanar enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\n{T}: Create a Treasure token. Activate only if you've cast an instant or sorcery spell this turn.",
+        "flavor_text": "",
+        "power": "0",
+        "toughness": "4",
+        "artist": "Justin Gerard",
+        "image_uris": {}
+      },
+      {
+        "name": "Wild Idea",
+        "mana_cost": "{3}{U}{R}",
+        "type_line": "Sorcery",
+        "oracle_text": "Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.",
+        "flavor_text": "",
+        "power": null,
+        "toughness": null,
+        "artist": "Justin Gerard",
+        "image_uris": {}
+      }
+    ]
   },
   {
     "name": "Sandman, Shifting Scoundrel",
@@ -60061,7 +60181,31 @@
     },
     "prices": {
       "usd": "0.23"
-    }
+    },
+    "card_faces": [
+      {
+        "name": "Tam, Observant Sequencer",
+        "mana_cost": "{2}{G}{U}",
+        "type_line": "Legendary Creature — Gorgon Wizard",
+        "oracle_text": "Landfall — Whenever a land you control enters, Tam becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+        "flavor_text": "",
+        "power": "4",
+        "toughness": "3",
+        "artist": "Jodie Muir",
+        "image_uris": {}
+      },
+      {
+        "name": "Deep Sight",
+        "mana_cost": "{G}{U}",
+        "type_line": "Sorcery",
+        "oracle_text": "You draw a card and gain 1 life.",
+        "flavor_text": "",
+        "power": null,
+        "toughness": null,
+        "artist": "Jodie Muir",
+        "image_uris": {}
+      }
+    ]
   },
   {
     "name": "Tameshi, Reality Architect",

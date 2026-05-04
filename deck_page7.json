@@ -19097,7 +19097,31 @@
       },
       "prices": {
         "usd": "0.11"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Pigment Wrangler",
+          "mana_cost": "{4}{R}",
+          "type_line": "Creature — Orc Sorcerer",
+          "oracle_text": "Flying\nThis creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "4",
+          "toughness": "4",
+          "artist": "Gonzalo Kenny",
+          "image_uris": {}
+        },
+        {
+          "name": "Striking Palette",
+          "mana_cost": "{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Gonzalo Kenny",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Pikemen",
@@ -39647,7 +39671,31 @@
       },
       "prices": {
         "usd": "0.10"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Quill-Blade Laureate",
+          "mana_cost": "{1}{W}",
+          "type_line": "Creature — Human Cleric",
+          "oracle_text": "Double strike\nThis creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "1",
+          "toughness": "1",
+          "artist": "Elizabeth Peiró",
+          "image_uris": {}
+        },
+        {
+          "name": "Twofold Intent",
+          "mana_cost": "{1}{W}",
+          "type_line": "Sorcery",
+          "oracle_text": "Target creature gets +1/+0 and gains double strike until end of turn.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Elizabeth Peiró",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Quill-Slinger Boggart",
@@ -50946,7 +50994,31 @@
       },
       "prices": {
         "usd": "0.25"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Realm-Cloaked Giant",
+          "mana_cost": "{5}{W}{W}",
+          "type_line": "Creature — Giant",
+          "oracle_text": "Vigilance",
+          "flavor_text": "",
+          "power": "7",
+          "toughness": "7",
+          "artist": "Adam Paquette",
+          "image_uris": {}
+        },
+        {
+          "name": "Cast Off",
+          "mana_cost": "{3}{W}{W}",
+          "type_line": "Sorcery — Adventure",
+          "oracle_text": "Destroy all non-Giant creatures. (Then exile this card. You may cast the creature later from exile.)",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Adam Paquette",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Realmbreaker's Grasp",
@@ -59143,7 +59215,31 @@
       },
       "prices": {
         "usd": "0.20"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Repudiate",
+          "mana_cost": "{G/U}{G/U}",
+          "type_line": "Instant",
+          "oracle_text": "Counter target activated or triggered ability. (Mana abilities can't be targeted.)",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Victor Adame Minguez",
+          "image_uris": {}
+        },
+        {
+          "name": "Replicate",
+          "mana_cost": "{1}{G}{U}",
+          "type_line": "Sorcery",
+          "oracle_text": "Create a token that's a copy of target creature you control.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Victor Adame Minguez",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Repulse",
@@ -67052,7 +67148,31 @@
       },
       "prices": {
         "usd": "0.25"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Rise",
+          "mana_cost": "{U}{B}",
+          "type_line": "Sorcery",
+          "oracle_text": "Return target creature card from a graveyard and target creature on the battlefield to their owners' hands.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Pete Venters",
+          "image_uris": {}
+        },
+        {
+          "name": "Fall",
+          "mana_cost": "{B}{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "Target player reveals two cards at random from their hand, then discards each nonland card revealed this way.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Pete Venters",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Rise Again",

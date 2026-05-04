@@ -18301,7 +18301,31 @@
       },
       "prices": {
         "usd": "0.23"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Double Jump",
+          "mana_cost": "{1}{U}",
+          "type_line": "Instant",
+          "oracle_text": "Put a flying counter on target creature you control. Until end of turn, it has base power and toughness 5/5.\nFuse (You may cast one or both halves of this card from your hand.)",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Kevin Sidharta",
+          "image_uris": {}
+        },
+        {
+          "name": "Flying Kick",
+          "mana_cost": "{1}{R}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature you control deals damage equal to its power to target creature an opponent controls.\nFuse (You may cast one or both halves of this card from your hand.)",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Kevin Sidharta",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Double Negative",
@@ -37408,7 +37432,31 @@
       },
       "prices": {
         "usd": "0.11"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Elite Interceptor",
+          "mana_cost": "{W}",
+          "type_line": "Creature — Human Wizard",
+          "oracle_text": "This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "1",
+          "toughness": "2",
+          "artist": "Lindsey Look",
+          "image_uris": {}
+        },
+        {
+          "name": "Rejoinder",
+          "mana_cost": "{1}{W}",
+          "type_line": "Sorcery",
+          "oracle_text": "You may tap or untap target creature.\nDraw a card.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Lindsey Look",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Elite Javelineer",
@@ -41976,7 +42024,31 @@
       },
       "prices": {
         "usd": "0.11"
-      }
+      },
+      "card_faces": [
+        {
+          "name": "Encouraging Aviator",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Bird Wizard",
+          "oracle_text": "Flying\nWhenever this creature attacks, it becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
+          "flavor_text": "",
+          "power": "2",
+          "toughness": "3",
+          "artist": "Oriana Menendez",
+          "image_uris": {}
+        },
+        {
+          "name": "Jump",
+          "mana_cost": "{U}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature gains flying until end of turn.",
+          "flavor_text": "",
+          "power": null,
+          "toughness": null,
+          "artist": "Oriana Menendez",
+          "image_uris": {}
+        }
+      ]
     },
     {
       "name": "Encroaching Dragonstorm",
